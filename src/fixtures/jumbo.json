@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Disfruta en tú TV.",
+    "subTitle": "Dónde quieras, TVs, PlayStation, Xbox, Chromecast, Apple TV y más.",
+    "image": "/images/misc/home-tv.jpg",
+    "alt": "TV",
+    "direction": "row"
+  },
+  {
+    "id": 2,
+    "title": "Disfruta de contenidos de varias plataformas.",
+    "subTitle": "Con Futureflix puedes no perderte nada, da igual la plataforma.",
+    "image": "/images/misc/home-mobile.jpg",
+    "alt": "Móvil",
+    "direction": "row-reverse"
+  },
+  {
+    "id": 3,
+    "title": "En cualquier dispositivo",
+    "subTitle": "Puedes disfrutar de futureflix en cualquier dispositivo.",
+    "image": "/images/misc/home-imac.jpg",
+    "alt": "Multi",
+    "direction": "row"
+  }
+]

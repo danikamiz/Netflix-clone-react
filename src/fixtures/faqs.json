@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "header": "¿Qué is Futureflix?",
+    "body": "Futureflix es un servicio web de contenidos VOD qué agrega diversas plataformas en un único servicio ofreciendo una gran variedad."
+  },
+  {
+    "id": 2,
+    "header": "¿Cuánto cuesta el servicio?",
+    "body": "El servicio dispone de tres meses gratuitos, una vez transcurridos tiene un coste de 6€ mensuales"
+  },
+  {
+    "id": 3,
+    "header": "¿Dónde puedo ver Futureflix?",
+    "body": "Futureflix es un servicio web que se adapta al dispositivo en el qué lo estás viendo, ordenador, tablet, móviles, el diseño responsive permite esta funcionalidad."
+  },
+  {
+    "id": 4,
+    "header": "¿Cómo puedo salir?",
+    "body": "Podrás salir de tu sesión sin problema haciendo click en tu avatar y en salir en el desplegable que se abre."
+  },
+  {
+    "id": 5,
+    "header": "¿Qué puedo ver en Futureflix?",
+    "body": "En Futureflix tienes diverso contenido dado que funciona como una agregadora de contenido de diversas plataformas."
+  }
+]
